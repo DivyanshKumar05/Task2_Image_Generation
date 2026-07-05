@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51757438-0d01-4c27-8257-ea0ec84e71c8" /># Task2_Image_Generation
+# Task 02 – Image Generation with Pre-trained Models
 <br>
 ## Objective
 <br>
