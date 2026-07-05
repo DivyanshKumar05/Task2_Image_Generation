@@ -7,6 +7,7 @@ Python
 Google Colab
 Stable Diffusion v1.5
 Hugging Face Diffusers
+
 Workflow
 Installed required libraries
 Loaded Stable Diffusion model
