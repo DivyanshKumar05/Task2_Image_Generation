@@ -1,5 +1,4 @@
-# Task 02 – Image Generation with Pre-trained Models
-<br>
+# Task 02 – Image Generation with Pre-trained Models<br>
 
 ## Objective<br>
 <br>
