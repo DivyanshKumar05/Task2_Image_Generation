@@ -1,31 +1,31 @@
-# Task2_Image_Generation
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51757438-0d01-4c27-8257-ea0ec84e71c8" /># Task2_Image_Generation
 <br>
-##Objective
+## Objective
 <br>
 Generate images using pre-trained generative AI models like Stable Diffusion.
 <br>
-##Technologies Used
-*Python
-*Google Colab
-*Stable Diffusion v1.5
-*Hugging Face Diffusers
+## Technologies Used <br>
+* Python <br>
+* Google Colab <br>
+* Stable Diffusion v1.5 <br>
+* Hugging Face Diffusers <br>
 <br>
 
-##Workflow
-*Installed required libraries
-*Loaded Stable Diffusion model
-*Entered text prompts
-*Generated images
-*Saved output images
+## Workflow<br>
+* Installed required libraries<br>
+* Loaded Stable Diffusion model<br>
+* Entered text prompts<br>
+* Generated images<br>
+* Saved output images<br>
 <br>
-##Sample Prompts
-*A highly detailed futuristic city at sunset, neon lights, cyberpunk style, digital art, masterpiece,
-*A massive futuristic sports stadium at night, packed crowd, glowing holographic scoreboards, dramatic floodlights, hyper-realistic, wide angle shot, 8k resolution, cinematic atmosphere, masterpiece,
-*An astronaut riding a horse on Mars,
-*A well defined picture of a Samurai With his sword in his hand
+## Sample Prompts
+* A highly detailed futuristic city at sunset, neon lights, cyberpunk style, digital art, masterpiece <br>
+* A massive futuristic sports stadium at night, packed crowd, glowing holographic scoreboards, dramatic floodlights, hyper-realistic, wide angle shot, 8k resolution, cinematic atmosphere, masterpiece <br>
+* An astronaut riding a horse on Mars<br>
+* A well defined picture of a Samurai With his sword in his hand<br>
 <br>
-##Output
+## Output
 Successfully generated images from text prompts.
 <br>
-##Author
+## Author
 Divyansh Kumar.
